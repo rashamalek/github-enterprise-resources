@@ -11,3 +11,6 @@ Here you can find resources related to Github Enterprise Management
 - GHArchive
   - https://www.gharchive.org/
     - https://github.com/igrigorik/gharchive.org 
+- Git Admin
+  - https://www.npmjs.com/package/git-admin#installation
+
